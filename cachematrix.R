@@ -1,7 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
-
-## Write a short comment describing this function
+## returns a matrix wrapped with functions to access the matrix itself and it's inverse
 
 makeCacheMatrix <- function(x = matrix()) {
 
